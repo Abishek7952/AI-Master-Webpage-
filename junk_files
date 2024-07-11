@@ -1,0 +1,311 @@
+
+
+
+    <!-- Service-Area-Start -->
+    <section class="section-padding service-area v1" style="background: #ffffff" id="service-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 text-center">
+                    <div class="page-title">
+                        <h2 class="title">The Best Stunning <br> Camera Drones for Sale</h2>
+                        <div class="desc">Whether you’re using them for recreation, to build an <br>
+                        service business to integrate existing business</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-md-6">
+                    <div class="service-box wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="service-icon">
+                            <img src="assets/images/service-1.png" alt="">
+                        </div>
+                        <div class="service-content">
+                            <h3 class="title">Cover Long Range</h3>
+                            <p>The DJI Mavic 2 Pro is the latest and greatest camera drone from DJI, with a camera from Swiss camera manufacturer.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6">
+                    <div class="service-box wow fadeInUp" data-wow-delay="0.4s">
+                        <div class="service-icon">
+                            <img src="assets/images/service-4.png" alt="">
+                        </div>
+                        <div class="service-content">
+                            <h3 class="title">Cover Long Range</h3>
+                            <p>The DJI Mavic 2 Pro is the latest and greatest camera drone from DJI, with a camera from Swiss camera manufacturer.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6">
+                    <div class="service-box wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="service-icon">
+                            <img src="assets/images/service-2.png" alt="">
+                        </div>
+                        <div class="service-content">
+                            <h3 class="title">Cover Long Range</h3>
+                            <p>The DJI Mavic 2 Pro is the latest and greatest camera drone from DJI, with a camera from Swiss camera manufacturer.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6">
+                    <div class="service-box wow fadeInUp" data-wow-delay="0.8s">
+                        <div class="service-icon">
+                            <img src="assets/images/service-5.png" alt="">
+                        </div>
+                        <div class="service-content">
+                            <h3 class="title">Cover Long Range</h3>
+                            <p>The DJI Mavic 2 Pro is the latest and greatest camera drone from DJI, with a camera from Swiss camera manufacturer.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6">
+                    <div class="service-box wow fadeInUp" data-wow-delay="1s">
+                        <div class="service-icon">
+                            <img src="assets/images/service-3.png" alt="">
+                        </div>
+                        <div class="service-content">
+                            <h3 class="title">Cover Long Range</h3>
+                            <p>The DJI Mavic 2 Pro is the latest and greatest camera drone from DJI, with a camera from Swiss camera manufacturer.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6">
+                    <div class="service-box wow fadeInUp" data-wow-delay="1.2s">
+                        <div class="service-icon">
+                            <img src="assets/images/service-6.png" alt="">
+                        </div>
+                        <div class="service-content">
+                            <h3 class="title">Cover Long Range</h3>
+                            <p>The DJI Mavic 2 Pro is the latest and greatest camera drone from DJI, with a camera from Swiss camera manufacturer.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Service-Area-End -->
+
+    <!-- Intro-Area-Start -->
+    <section class="intro-area about-section v1 over-hidden" id="about-area"  style="background-image: url('assets/images/section-bg1.png'); background-size: 100% 100%;background-position: center">
+        <div class="container">
+            <div class="row row-flex">
+                <div class="col-xs-12 col-md-6">
+                    <div class="text-box text-white">    
+                        <h4 class="top-title text-white">Camera Resolution</h4>
+                        <h2 class="title">World best water <br> resistant drone</h2>
+                        <p>Duis rhoncus dui venenatis consequat porttitor. Etiam aliquet congue <br> consequat. In posuere, nunc sit amet laoreet blandit, urna sapien <br> imperdiet lectus, et molestie sem tortor quis dui.</p>
+                        <div class="space-40"></div>
+                        <a href="#" class="bttn-2">Discover Now</a>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6 hidden-sm">
+                    <div class="space-60 hidden-md hidden-lg"></div>
+                    <div class="play-box">
+                        <figure class="play-image wow zoomIn">
+                            <img src="assets/images/intro-1.png" alt="">
+                        </figure>
+                        <a href="https://www.youtube.com/watch?v=Sn1jgITZf6o" data-lity class="play-bttn"><i class="fa fa-play"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="space-100"></div>
+    <div class="space-50-lg"></div>
+    <!-- Intro-Area-End -->
+
+    <!-- Intro-Area-Start -->
+    <section class="intor-area-1  section-bg relative-box" style="background-image: url('assets/images/section-bg-2.png'); background-position: bottom right -250px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-7">
+                    <div class="text-box camera-title">
+                        <h4 class="top-title">Camera Resolution</h4>
+                        <h3 class="title">The Mavic 2 Pro is the latest and <br> greatest drone from DJI.</h3>
+                        <p>Whether you’re using them for recreation, to build an aerial service <br> business, or to integrate UAS into your existing business or <br>organization</p>
+                        <div class="space-30"></div>
+                         <a href="#" class="bttn-3 pre-btn">Pre-Book My Order</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="image-side-box right-box hidden-xs hidden-sm">
+            <img src="assets/images/drone-x4.png" class="layer" data-depth="0.35" alt="">
+        </div>
+    </section>
+    <!-- Intro-Area-End -->
+    
+    <!-- Product-Carousel-Area-Start -->
+    <section class="product-area" style="background-color: #ffffff;" id="gallery-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 text-center">
+                    <div class="page-title">
+                        <h2 class="title">New arrival <br>
+                            exclusive drones</h2>
+                        <div class="desc">Whether you’re using them for recreation, to build anservice business to integrate UAS into your existing business</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="product-slide">
+                    <div class="slide-item">
+                        <figure class="product-image">
+                            <img src="assets/images/product-1.png" alt="">
+                        </figure>
+                        <div class="product-content">
+                            <h3 class="title">Dj Mavic Pro</h3>
+                            <h5 class="rate">$180</h5>
+                        </div>
+                    </div>
+                    <div class="slide-item">
+                        <figure class="product-image">
+                            <img src="assets/images/product-2.png" alt="">
+                        </figure>
+                        <div class="product-content">
+                            <h3 class="title">Dj Mavic Pro</h3>
+                            <h5 class="rate">$180</h5>
+                        </div>
+                    </div>
+                    <div class="slide-item">
+                        <figure class="product-image">
+                            <img src="assets/images/product-3.png" alt="">
+                        </figure>
+                        <div class="product-content">
+                            <h3 class="title">Dj Mavic Pro</h3>
+                            <h5 class="rate">$180</h5>
+                        </div>
+                    </div>
+                    <div class="slide-item">
+                        <figure class="product-image">
+                            <img src="assets/images/product-4.png" alt="">
+                        </figure>
+                        <div class="product-content">
+                            <h3 class="title">Dj Mavic Pro</h3>
+                            <h5 class="rate">$180</h5>
+                        </div>
+                    </div>
+                    <div class="slide-item">
+                        <figure class="product-image">
+                            <img src="assets/images/product-1.png" alt="">
+                        </figure>
+                        <div class="product-content">
+                            <h3 class="title">Dj Mavic Pro</h3>
+                            <h5 class="rate">$180</h5>
+                        </div>
+                    </div>
+                    <div class="slide-item">
+                        <figure class="product-image">
+                            <img src="assets/images/product-2.png" alt="">
+                        </figure>
+                        <div class="product-content">
+                            <h3 class="title">Dj Mavic Pro</h3>
+                            <h5 class="rate">$180</h5>
+                        </div>
+                    </div>
+                    <div class="slide-item">
+                        <figure class="product-image">
+                            <img src="assets/images/product-3.png" alt="">
+                        </figure>
+                        <div class="product-content">
+                            <h3 class="title">Dj Mavic Pro</h3>
+                            <h5 class="rate">$180</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Product-Carousel-Area-End -->
+   
+    <!-- Price-Area-Start -->
+    <section class="price-area v1" id="price-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 text-center">
+                    <div class="page-title">
+                        <h2 class="title">No hidden charge choose your plan</h2>
+                        <div class="desc">Whether you’re using them for recreation, to build anservice business to integrate UAS into your existing business</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-md-4">
+                    <div class="single-price wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="user">1 User</div>
+                        <h3 class="title">Regular Plan</h3>
+                        <div class="info">No extra hidden charge.
+                            All vat Included.</div>
+                        <h3 class="rate">$19.99</h3>
+                        <a href="" class="bttn-3">Get Started</a>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-4">
+                    <div class="single-price wow fadeInUp active" data-wow-delay="0.5s">
+                        <div class="user">1 User</div>
+                        <h3 class="title">Startup Plan</h3>
+                        <div class="info">No extra hidden charge.
+                            All vat Included.</div>
+                        <h3 class="rate">$59.99</h3>
+                        <a href="" class="bttn-3">Get Started</a>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-4">
+                    <div class="single-price wow fadeInUp" data-wow-delay="0.7s">
+                        <div class="user">1 User</div>
+                        <h3 class="title">Business Plan</h3>
+                        <div class="info">No extra hidden charge.
+                            All vat Included.</div>
+                        <h3 class="rate">$99.99</h3>
+                        <a href="" class="bttn-3">Get Started</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Price-Area-End -->
+    <!-- Sponsor-Arae-Start -->
+    <div class="sponsor-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h4>We are feauted on</h4>
+                </div>
+            </div>
+            <div class="space-20"></div>
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <div class="sponsors">
+                        <div class="item">
+                            <img src="assets/images/client-1.png" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="assets/images/client-2.png" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="assets/images/client-3.png" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="assets/images/client-4.png" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="assets/images/client-5.png" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="assets/images/client-2.png" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="assets/images/client-3.png" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="assets/images/client-4.png" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="assets/images/client-5.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Sponsor-Arae-End -->

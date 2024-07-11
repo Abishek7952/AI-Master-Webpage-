@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Master Payment Page</title>
+
+     <!-- Place favicon.ico in the root directory -->
+     <link rel="apple-touch-icon" href="assets/images/chip.png">
+    <link rel="shortcut icon" type="image/ico" href="assets/images/chip.png" />
+     <!-- JS -->
+     <!-- <script src="/assets/js/FaqSection.js"></script> -->
+     <!-- Plugin-CSS -->
+     <link rel="stylesheet" href="./assets/css/normalize.css">
+     <link rel="stylesheet" href="./assets/css/bootstrap-min.css">
+     <link rel="stylesheet" href="./assets/css/owl-carousel-min.css">
+     <link rel="stylesheet" href="./assets/css/lity-min.css">
+     <link rel="stylesheet" href="./assets/css/font-awesome-min.css">
+     <link rel="stylesheet" href="./assets/css/animate.css">
+     <link rel="stylesheet" href="/style.css">
+     <!-- Main-Stylesheets -->
+     <link rel="stylesheet" href="./assets/css/helper.css">
+     <link rel="stylesheet" href="./assets/css/theme.css">
+     <!-- <link rel="stylesheet" href="style.css"> -->
+     <link rel="stylesheet" href="./assets/css/responsive.css">
+     <script src="assets/js/vendor/modernizr-2-8-3-min.js"></script>
+     <!-- Google icons -->
+     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+     <!--Google Fonts -->
+         <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+     <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+         <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+ 
+</head>
+<body data-spy="scroll"  >
+   <!-- Preloader-Content -->
+   <div class="preloader" >
+    <svg viewBox="-2000 -1000 4000 2000">
+        <path id="inf" d="M354-354A500 500 0 1 1 354 354L-354-354A500 500 0 1 0-354 354z"></path>
+        <use xlink:href="#inf" stroke-dasharray="1570 5143" stroke-dashoffset="6713px"></use>
+    </svg>
+</div> 
+<script>
+    window.addEventListener('load', function() {
+        document.querySelector('.preloader').style.display = 'none';
+    });
+</script>
+     <!--Header-area-Start -->
+<section >
+   
+     
+    <div class="mainmenu-area transparent "  data-spy="affix" data-offset-top="197">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 row-flex AI-Master">
+                    <div class="site-brand solid">
+                        <a href="index.html" class="logo" style="color:#480084">AI Master</a>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Header-area-END -->
+    <!-- Mainmenu-Area-START -->
+     </section>
+     
+    <section class="container  relative-box" id="home-area" style=" 
+    right: 0%;
+    margin-top: 60px;">
+        <div class="header">
+        <h1>Payment Page </h1>
+
+    </div>
+
+    </section>
+    <!--  Mainmenu-Area-End -->
+
+    <!-- Offer-time-Interval -START  -->
+    <section class="container Offer" style="
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./assets/images/advbackground.jpg);">
+        <div class="Offer-content">
+            <h2><span class="glow">Special Offer <span class="material-symbols-outlined">
+                trophy
+                </span></span></h2>
+                <p>Get a discount upto 10% !!! <br> Offer valid only for the next <span id="time_element">10</span> minutes !</p>
+
+
+            </div>
+       
+        <script src="assets/js/timer.js"></script>
+       
+    </section>
+    <!-- Offer-time-Interval -END  -->
+     
+
+    <!-- Customer FORM -START -->
+    
+    <section class="form-section" id="form-area" style="background-image: url(assets\images\section-bg-2.png);">
+        <form id="payment-form" method="POST" action="payment_success.php">
+            <div class="form-container container displayforminrow" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('./assets/images/form-bg.jpg');">
+                <div class="form-group col-sm-12 col-lg-4">
+                    <h1 class="form-title">AI Master</h1>
+                    <h2 class="form-title">Registration :</h2>
+                    <!-- Form fields (Name, Email, Mobile, etc.) -->
+                    <label for="name" class="form-label">Name :</label>
+                    <input type="text" id="name" name="name" class="name form-control" placeholder="Enter your Name" required>
+                </div>
+                <div class="form-group col-sm-12 col-lg-4">
+                    <label for="mail" class="form-label">Email :</label>
+                    <input type="email" id="mail" name="email" class="mail form-control" placeholder="Enter your Email" required>
+                </div>
+                <div class="form-group col-sm-12 col-lg-4">
+                    <label for="number" class="form-label">Mobile Number :</label>
+                    <input type="tel" id="number" name="mobile" class="number form-control" pattern="[0-9]{10}" title="Enter valid 10 digit number" placeholder="Enter your Mobile Number" required>
+                    <small id="numberHelp" class="form-text text-muted">Enter a valid 10-digit mobile number.</small>
+                </div>
+                <div>
+                    <input type="checkbox" class="form-check-input form-check" id="exampleCheck1" required>
+                    <label class="form-check-label" for="checkbox">Accept Terms & Condition</label>
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary bttn-3" onclick="submitForm()">Pay Now!</button>
+                </div>
+            </div>
+        </form>
+    </section>
+    
+    
+     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js" integrity="sha384-DpFYo33vbdQ+rKtpbY7qkFp6T0F/pN48bQS3Vxp1kAxp0UKkPbQ5PQ8DRQ1Qz7e5" crossorigin="anonymous"></script>
+     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shFbTGBOiq/c/H+qnJrrLs5peG2hUyfV9/sW0" crossorigin="anonymous"></script>
+     <!-- Customer FORM -END -->
+<!-- Footer -->
+<footer class="footer-area section-bg" id="contact-area" style="background-image: url('assets/images/footer-bg.png') ;
+    padding-bottom: 0px;
+    color: #ffffffb0;
+    padding-top: 100px;
+">
+    <div class="copyright-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <span class="copyright">&copy; <b>AI Master</b>. All Rights Reserved</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--Vendor-JS-->
+    <script src="assets/js/vendor/jquery-1-12-4-min.js"></script>
+    <!--Plugin-JS-->
+    <script src="assets/js/vendor/bootstrap-min.js"></script>
+    <script src="assets/js/owl-carousel-min.js"></script>
+    <script src="assets/js/ajaxchimp.js"></script>
+    <script src="assets/js/lity-min.js"></script>
+    <script src="assets/js/click-effect.js"></script>
+    <script src="assets/js/mouse-effect.js"></script>
+    <!-- <script src="assets/js/scrollUp-min.js"></script> -->
+    <script src="assets/js/wow-min.js"></script>
+    <!--Main-active-JS-->
+    <!-- <script src="assets/js/FaqSection.js"></script> -->
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
