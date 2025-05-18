@@ -1,8 +1,4 @@
-Here's a properly formatted `README.md` file for your **AI Master Webpage** GitHub repository, suitable for showcasing on GitHub:
 
----
-
-````markdown
 # AI Master Webpage – ChatGPT Prompt Bundles Marketplace
 
 **Internship Project at Creatah**
