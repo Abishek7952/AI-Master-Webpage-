@@ -73,11 +73,9 @@ AI-Master-Webpage/
     php -S localhost:8000
     ```
 
----
 
-## 📸 Screenshots
 
-*Add screenshots of the website and sample prompt bundles here.*
+
 
 ---
 
